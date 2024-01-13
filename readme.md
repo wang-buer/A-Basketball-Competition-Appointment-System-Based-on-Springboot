@@ -10,7 +10,7 @@
 
 用户：个人中心、竞赛预约、登录注册等
 
-![项目结构](https://s2.loli.net/2023/10/16/v31zPNxyXK9WjEU.jpg)
+![项目结构](https://www.codeshop.fun/Typora-Images/202311142234251.jpg)
 
 
 ## 2、项目技术
@@ -33,41 +33,38 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/16/eTvqwd8xlF5J9oy.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311142234267.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-用户管理](https://s2.loli.net/2023/10/16/1pgwkJYouirZhdA.jpg)
+![管理员-公告管理](https://www.codeshop.fun/Typora-Images/202311142234455.jpg)
 
-![管理员-项目分类管理](https://s2.loli.net/2023/10/16/3nhT9S5xYo1ZXUG.jpg)
+![管理员-竞赛项目管理](https://www.codeshop.fun/Typora-Images/202311142234507.jpg)
 
-![管理员-竞赛项目管理](https://s2.loli.net/2023/10/16/zxWElPpaoLJ6cXU.jpg)
+![管理员-轮播图管理](https://www.codeshop.fun/Typora-Images/202311142234479.jpg)
 
-![管理员-赛事预约管理](https://s2.loli.net/2023/10/16/Y9prGIHmn5dwRLf.jpg)
+![管理员-赛事预约管理](https://www.codeshop.fun/Typora-Images/202311142234558.jpg)
 
-![管理员-公告管理](https://s2.loli.net/2023/10/16/dUbyVmnf3hYleRG.jpg)
+![管理员-项目分类管理](https://www.codeshop.fun/Typora-Images/202311142234539.jpg)
 
-![管理员-轮播图管理](https://s2.loli.net/2023/10/16/nYjTd3xCtF1pGc7.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202311142234576.jpg)
 
 ### 4.3 用户模块
 
-![首页](https://s2.loli.net/2023/10/16/SbmH8zqfErXPhQ6.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202311142234535.jpg)
 
-![项目详情](https://s2.loli.net/2023/10/16/PM7DEqaG18kmLU9.jpg)
+![项目详情](https://www.codeshop.fun/Typora-Images/202311142234492.jpg)
 
-![用户后端功能列表](https://s2.loli.net/2023/10/16/5PvIir8lDomW7Vd.jpg)
+![用户后端功能列表](https://www.codeshop.fun/Typora-Images/202311142234569.jpg)
 
 ### 4.4 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/16/15GDISCmg8uHzsb.jpg)
-
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：篮球
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311142234453.jpg)
 
 
+## 获取方式
+下-方-点-击-关-注，回-复：**篮球**，查-看-导-入-教-程-视-频-和-sql-脚-本-等
 
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 
